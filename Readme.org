@@ -1,0 +1,12 @@
+#+author: conao
+#+date: <2018-10-25 Thu>
+
+* bison-rpcalc
+[[https://github.com/conao3/bison-rpcalc][https://img.shields.io/github/tag/conao3/bison-rpcalc.svg?style=flat-square]]
+[[https://travis-ci.org/conao3/bison-rpcalc][https://img.shields.io/travis/conao3/bison-rpcalc/master.svg?style=flat-square]]
+[[https://github.com/conao3/bison-rpcalc][https://img.shields.io/github/license/conao3/bison-rpcalc.svg?style=flat-square]]
+
+* What is it?
+This is flex-bison practice repository.
+
+See http://guppy.eng.kagawa-u.ac.jp/2009/ProgLang/bison-1.2.8/bison-ja_5.html
