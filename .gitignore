@@ -2,7 +2,7 @@
 # http://dotfiles.conao3.com/gitignore
 
 # Target file
-bison-adder
+bison-rpcalc
 
 # Flex compiled files
 *.yy.c
