@@ -1,0 +1,22 @@
+# conao3's global .gitignore at
+# http://dotfiles.conao3.com/gitignore
+
+# Target file
+bison-adder
+
+# Flex compiled files
+*.yy.c
+*.h
+
+# Bison compiled files
+*.tab.c
+
+# Object files
+*.o
+*.obj
+
+# Librarys
+*.a
+
+# Executables
+*.out
